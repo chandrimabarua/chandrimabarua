@@ -8,28 +8,36 @@ Passionate about creating modern websites and continuously learning new technolo
 
 ---
 
+
 ## 👩‍💻 About Me
 
-- 🌱 Currently learning **JavaScript (ES6)**
-- 💻 Skilled in **HTML & CSS**
-- 🚀 Goal: Become a Full Stack Web Developer
-- 📍 Bangladesh
+🎓 Diploma in Computer Science Technology
+
+💻 Aspiring Full Stack Developer
+
+🌱 Currently Learning JavaScript (ES6)
+
+🚀 Passionate about Web Development
+
+🎯 Goal: Build Modern Full Stack Applications
+
+📍 Bangladesh
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,Tailwind,git,github,vscode" />
 </p>
 
 ---
 
 ## 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=chandrimabarua&show_icons=true&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chandrimabarua&show_icons=true&theme=github_dark"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrimabarua&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrimabarua&layout=compact&theme=github_dark"/>
 
 ---
 
