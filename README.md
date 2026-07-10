@@ -4,8 +4,9 @@
 
 <br>
 
-
-<h1 align="center">Hi 👋, I'm Chandrima Barua Joty</h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Chandrima+Barua+Joty;Aspiring+Full+Stack+Developer;Currently+Learning+JavaScript+(ES6);Future+MERN+Stack+Developer" />
+</p>
 
 <h3 align="center">💻 Front-End Developer | 🎓 Computer Science Student</h3>
 
@@ -53,12 +54,39 @@ Passionate about creating modern websites and continuously learning new technolo
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/www.linkedin.com/in/chandrimabarua15)
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=chandrimabarua&show_icons=true&theme=tokyonight"/>
+</p>
+
 
 ## 🔥 GitHub Streak
 
-![](https://streak-stats.demolab.com?user=chandrimabarua&theme=tokyonight)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=chandrimabarua&theme=tokyonight"/>
+</p>
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrimabarua&layout=compact&theme=tokyonight"/>
+</p>
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/www.linkedin.com/in/chandrimabarua15)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/chandrimabarua)
+
+## 👀 Visitors
+
+![](https://komarev.com/ghpvc/?username=chandrimabarua&color=blueviolet&style=for-the-badge)
 
 ---
 
 ⭐ Thanks for visiting my profile!
+
+"Keep Learning • Keep Building • Keep Growing 🚀"
