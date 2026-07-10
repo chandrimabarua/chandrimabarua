@@ -28,18 +28,11 @@ Passionate about creating modern websites and continuously learning new technolo
 ## 🛠️ Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,Tailwind,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,vscode" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chandrimabarua&show_icons=true&theme=github_dark"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrimabarua&layout=compact&theme=github_dark"/>
-
----
 
 ## 🔥 GitHub Streak
 
