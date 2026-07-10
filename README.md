@@ -56,11 +56,6 @@ Passionate about creating modern websites and continuously learning new technolo
 
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=chandrimabarua&show_icons=true&theme=tokyonight"/>
-</p>
 
 
 ## 🔥 GitHub Streak
@@ -70,11 +65,7 @@ Passionate about creating modern websites and continuously learning new technolo
 </p>
 ---
 
-## 💻 Most Used Languages
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrimabarua&layout=compact&theme=tokyonight"/>
-</p>
 
 ## 🌐 Connect With Me
 
