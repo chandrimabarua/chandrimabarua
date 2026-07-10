@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="GitHub Banner">
+</p>
+
+<br>
+
+
 <h1 align="center">Hi 👋, I'm Chandrima Barua Joty</h1>
 
 <h3 align="center">💻 Front-End Developer | 🎓 Computer Science Student</h3>
