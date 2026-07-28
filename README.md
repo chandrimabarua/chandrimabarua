@@ -99,21 +99,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chandrimabarua&theme=tokyonight&no-frame=true&margin-w=15" />
-</p>
-
----
-
-# 📈 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chandrimabarua&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrimabarua&layout=compact&theme=tokyonight&hide_border=true"/>
-
----
 
 # 🔥 GitHub Streak
 
