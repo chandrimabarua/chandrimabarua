@@ -1,13 +1,17 @@
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Hi+I'm+Chandrima+Barua+Joty;Front-End+Developer;JavaScript+%7C+ES6+%7C+DOM+%7C+Async+JS;Future+MERN+Stack+Developer;Always+Learning+New+Technologies+🚀" />
+<div align="center">
+
+# Hi 👋 I'm Chandrima Barua Joty
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Front-End+Developer;JavaScript+Enthusiast;Future+MERN+Stack+Developer;Always+Learning+New+Technologies;Welcome+to+My+GitHub+Profile!"/>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=chandrimabarua&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/chandrimabarua?style=for-the-badge&color=blue"/>
+<img src="https://img.shields.io/github/stars/chandrimabarua?style=for-the-badge&color=yellow"/>
 </p>
 
-<h3 align="center">💻 Front-End Developer | 🎓 Computer Science Student</h3>
-
-<p align="center">
-Passionate about building modern, responsive websites and continuously improving my development skills.
-</p>
+</div>
 
 ---
 
@@ -15,82 +19,104 @@ Passionate about building modern, responsive websites and continuously improving
 
 🎓 Diploma in Computer Science Technology
 
-💻 Front-End Developer
+💜 Passionate Front-End Developer
 
-🚀 Passionate about Web Development
+🌱 Currently Learning **React.js**
 
-🌱 Currently Learning Advanced JavaScript & React
+🚀 Strong Foundation in
 
-🔥 Strong Foundation in HTML, CSS, Tailwind CSS & JavaScript
-
-⚡ Exploring Modern Web Technologies
-
-🎯 Goal: Become a Professional MERN Stack Developer
-
-📍 Bangladesh
-
----
-
-# 🚀 Skills & Technologies
-
-## 💻 Front-End
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![ES6](https://img.shields.io/badge/ES6-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
----
-
-## ⚙ JavaScript Concepts
-
+- HTML5
+- CSS3
+- Tailwind CSS
+- JavaScript (ES6+)
 - DOM Manipulation
-- Events
-- Array Methods
-- Objects
-- Functions
-- ES6 Features
 - Async JavaScript
 - Fetch API
 - JSON
 - Local Storage
 
----
+🎯 Goal
 
-## 🛠 Tools & Platforms
+> Become a Professional MERN Stack Developer and Build Real-World Applications.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+📍 Bangladesh
 
 ---
 
-## 📚 Currently Learning
+# 🚀 Tech Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+
+</p>
+
+### Frameworks & Libraries
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tailwind,react"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb"/>
+
+</p>
 
 ---
 
 # 📂 Featured Projects
 
-- ✅ Modern Todo App
-- ✅ Smart Watch UI
-- ✅ Image Slider
-- ✅ Rock Paper Scissors Game
-- ✅ Calculator
-- 🚀 More Projects Coming Soon...
+🚀 Modern Todo App
+
+⌚ Smart Watch UI
+
+🖼️ Image Slider
+
+✊ Rock Paper Scissors Game
+
+🧮 Calculator
+
+🌐 Portfolio Website
+
+✨ More Amazing Projects Coming Soon...
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=chandrimabarua&theme=tokyonight&row=1&column=7"/>
+
+</p>
 
 ---
 
 # 📈 GitHub Stats
 
 <p align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=chandrimabarua&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrimabarua&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -98,30 +124,62 @@ Passionate about building modern, responsive websites and continuously improving
 # 🔥 GitHub Streak
 
 <p align="center">
+
 <img src="https://streak-stats.demolab.com?user=chandrimabarua&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chandrimabarua&theme=tokyo-night"/>
+
 </p>
 
 ---
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chandrimabarua15)
+<p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/chandrimabarua)
+<a href="https://github.com/chandrimabarua">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/chandrimabarua15">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</p>
 
 ---
 
-# 👀 Profile Visitors
+# 💡 Quote
 
-![](https://komarev.com/ghpvc/?username=chandrimabarua&color=blueviolet&style=for-the-badge)
+> "Every expert was once a beginner. Keep Learning, Keep Building."
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my profile!
-</h3>
+# 🐍 Contribution Snake
+
+> Enable GitHub Actions and add the snake workflow to display this animation.
 
 <p align="center">
-<b>Code • Learn • Build • Repeat 🚀</b>
+
+![Snake animation](https://raw.githubusercontent.com/chandrimabarua/chandrimabarua/output/github-contribution-grid-snake-dark.svg)
+
 </p>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for Visiting!
+
+### 💜 Code • Learn • Build • Repeat 🚀
+
+</div>
 ```
