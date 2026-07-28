@@ -144,14 +144,11 @@
 
 # 🐍 Contribution Snake
 
-> Enable GitHub Actions and add the snake workflow to display this animation.
+## 🐍 Contribution Snake
 
 <p align="center">
-
-![Snake animation](https://raw.githubusercontent.com/chandrimabarua/chandrimabarua/output/github-contribution-grid-snake-dark.svg)
-
+  <img src="https://raw.githubusercontent.com/chandrimabarua/chandrimabarua/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
-
 ---
 
 <div align="center">
