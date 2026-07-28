@@ -102,22 +102,16 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=chandrimabarua&theme=tokyonight&row=1&column=7"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=chandrimabarua&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
 ---
 
 # 📈 GitHub Stats
 
-<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chandrimabarua&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chandrimabarua&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrimabarua&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrimabarua&layout=compact&theme=tokyonight&hide_border=true"/>
 
 ---
 
