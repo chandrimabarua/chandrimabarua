@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="My banner.png" width="100%" alt="GitHub Banner">
-</p>
-
-<br>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Chandrima+Barua+Joty;Aspiring+Full+Stack+Developer;Currently+Learning+JavaScript+(ES6);Future+MERN+Stack+Developer" />
