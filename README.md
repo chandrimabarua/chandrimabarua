@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Chandrima Barua Joty
 
-### Front-End Developer | JavaScript Enthusiast | Aspiring MERN Stack Developer
+### Front-End Developer • React Developer • Aspiring Full-Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=Building+Modern+Web+Experiences;Learning+React+%26+Modern+JavaScript;Exploring+the+MERN+Stack;Turning+Ideas+Into+Projects;Always+Learning+%26+Building"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=Building+Real-World+Web+Applications;React+Developer;JavaScript+%26+Modern+Web+Technologies;Turning+Ideas+Into+Interactive+Experiences;Always+Learning+%26+Building"/>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=chandrimabarua&label=Profile+Views&color=8A2BE2&style=for-the-badge" />
@@ -18,74 +18,139 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Diploma student in Computer Science Technology** with a strong interest in **Web Development**.
+I'm a **Diploma student in Computer Science Technology** and a **Front-End Developer** focused on building modern, responsive, and user-friendly web applications.
 
-I enjoy turning ideas into clean, responsive, and user-friendly web interfaces while continuously improving my problem-solving and development skills.
+I've moved from learning the fundamentals of web development to building **real-world projects with React.js**, while continuously improving my JavaScript, UI development, and problem-solving skills.
 
 * 🎓 Diploma in Computer Science Technology
-* 💻 Focused on Front-End Development
-* ⚛️ Currently learning React.js
-* 🌱 Exploring the MERN Stack
-* 🧩 Interested in building real-world applications
-* 🚀 Always learning, experimenting, and building
-
-### 🎯 My Goal
-
-> To become a skilled Full-Stack Developer and build meaningful, scalable, and user-friendly web applications.
+* 💻 Front-End Developer
+* ⚛️ React.js Developer
+* 🧠 Strong foundation in JavaScript (ES6+)
+* 🌐 Experience working with APIs and dynamic data
+* 🎨 Passionate about clean and modern UI
+* 🚀 Currently building real-world projects
+* 🌱 Working toward Full-Stack / MERN Development
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
-### Frameworks & Libraries
+### Front-End
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tailwind,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react" />
 </p>
 
-### Tools & Technologies
+### Tools & Workflow
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
----
+### Core Skills
 
-## 📚 Currently Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react" />
-</p>
-
-**React.js**
-Building reusable components, understanding React fundamentals, and developing modern interactive web applications.
-
-### 🌱 Exploring Next
-
-`Node.js` • `Express.js` • `MongoDB` • `REST APIs` • `Full-Stack Development`
+`Responsive Design` • `DOM Manipulation` • `ES6+` • `REST API` • `Fetch API` • `JSON` • `Local Storage` • `Component-Based Development`
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 What I'm Building Now
 
-Here are some of the projects I've been working on while learning and improving my development skills.
+### Real-World React Applications
 
-| Project                   | Description                                          |
-| ------------------------- | ---------------------------------------------------- |
-| 📝 **Modern Todo App**    | A responsive task-management application             |
-| ⌚ **Smart Watch UI**      | A modern product interface focused on clean UI       |
-| 🖼️ **Image Slider**      | Interactive image slider built with JavaScript       |
-| ✊ **Rock Paper Scissors** | Interactive game with score tracking                 |
-| 🧮 **Calculator**         | Functional calculator with a clean interface         |
-| 🌐 **Portfolio Website**  | Personal portfolio showcasing my skills and projects |
+I'm currently focused on turning my React knowledge into **complete, practical web applications** rather than only tutorial-based projects.
 
-> More projects and experiments are coming soon.
+My current focus includes:
+
+* ⚛️ Building reusable React components
+* 🧩 Creating scalable UI structures
+* 🔄 Working with dynamic data
+* 🔐 Authentication & protected routes
+* 🔎 Search & filtering functionality
+* ❤️ Favorites & user interactions
+* 📊 Dashboard-based interfaces
+* 📱 Responsive design
+* 🎨 Modern UI/UX
+
+---
+
+## 🌟 Featured Projects
+
+### 🏠 Nestora — Real Estate Platform
+
+A modern and responsive real estate platform featuring:
+
+* Property listings
+* Search functionality
+* Authentication
+* Favorites
+* User dashboards
+* Responsive interface
+* Modern property-focused UI
+
+🔗 **[View Repository →](https://github.com/chandrimabarua/Project-Nestora-real-estate)**
+
+---
+
+### 🌱 Planet Festival
+
+A responsive tree-planting platform using dynamic API data.
+
+**Features:**
+
+* 🌳 Dynamic API data
+* 🔎 Category filtering
+* 🛒 Cart functionality
+* 📱 Responsive design
+* ✨ Modern eco-friendly UI
+
+🔗 **[View Repository →](https://github.com/chandrimabarua/Planet-festival)**
+
+---
+
+### 🛒 Smart Cart Manager
+
+A JavaScript-based shopping cart application focused on product management and **Local Storage** functionality.
+
+🔗 **[View Repository →](https://github.com/chandrimabarua/smart-cart-manager-local-storage)**
+
+---
+
+### 📚 Modern Learn English
+
+An interactive English vocabulary learning application built with **HTML, Tailwind CSS v4, DaisyUI, and JavaScript**.
+
+**Features:**
+
+* 📖 Vocabulary learning
+* 🔊 Text-to-Speech pronunciation
+* 🎨 Modern interactive UI
+* 📱 Responsive design
+
+🔗 **[View Repository →](https://github.com/chandrimabarua/Modern-LearnEnglish)**
+
+---
+
+## 📂 More Projects
+
+I've also built several projects while strengthening my JavaScript, DOM manipulation, responsive design, and problem-solving skills.
+
+### JavaScript & Front-End Projects
+
+* 📝 Modern Todo List
+* ⌚ Smart Watch UI
+* ✊ Rock Paper Scissors
+* 🖼️ Image Slider
+* 🎮 Tic Tac Toe
+* 🔐 Password Generator
+* 🎲 Dice Roller
+* 🔢 Guess The Number
+* 📊 DevBoard Task Dashboard
+* 🌐 Webflow Landing Page
+* 🌸 Flowers Website
+* 🏗️ Architects Website
+* 🚨 Emergency Hotline
+
+👉 **[Explore All Repositories →](https://github.com/chandrimabarua?tab=repositories)**
 
 ---
 
@@ -105,23 +170,55 @@ Here are some of the projects I've been working on while learning and improving 
 
 ---
 
-## 🤝 Let's Connect
+## 🎯 My Development Journey
 
-I'm always interested in connecting with other developers, learning from the community, and collaborating on interesting projects.
+```text
+HTML & CSS
+     ↓
+Tailwind CSS
+     ↓
+JavaScript
+     ↓
+ES6+
+     ↓
+DOM Manipulation
+     ↓
+Async JavaScript & APIs
+     ↓
+React.js
+     ↓
+Real-World React Projects  ← Currently Here
+     ↓
+Full-Stack Development
+     ↓
+MERN Stack
+```
 
-<p>
-  <a href="https://github.com/chandrimabarua">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/chandrimabarua15">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+---
+
+## 🤝 Connect With Me
+
+I'm always open to connecting with developers, collaborating on projects, learning from the community, and exploring new opportunities.
+
+<p align="center">
+
+<a href="mailto:chandrima.bspi.cc@gmail.com">
+  <img src="https://img.shields.io/badge/Email-chandrima.bspi.cc%40gmail.com-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/chandrimabarua15/">
+  <img src="https://img.shields.io/badge/LinkedIn-Chandrima%20Barua%20Joty-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/chandrimabarua">
+  <img src="https://img.shields.io/badge/GitHub-chandrimabarua-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </p>
 
 ---
 
-## 💭 Developer Mindset
+## 💭 My Mindset
 
 > **"A little better than yesterday. Creating with purpose, growing with every step."**
 
@@ -132,6 +229,8 @@ I'm always interested in connecting with other developers, learning from the com
 ### Thanks for visiting my profile! 💜
 
 **Code • Learn • Build • Grow**
+
+<br>
 
 <img src="https://raw.githubusercontent.com/chandrimabarua/chandrimabarua/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
