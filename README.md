@@ -162,13 +162,6 @@ I've also built several projects while strengthening my JavaScript, DOM manipula
   <img src="https://streak-stats.demolab.com?user=chandrimabarua&theme=tokyonight&hide_border=true" />
 </p>
 
-### 📊 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandrimabarua&theme=tokyo-night&hide_border=true" />
-</p>
-
----
 
 ## 🎯 My Development Journey
 
